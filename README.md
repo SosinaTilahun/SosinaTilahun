@@ -1,49 +1,54 @@
-# Hello 👋 I'm Sosina Tilahun
+# Hello 👋 I'm Sosina Tilahun Areb
 
-🎓 Software Engineering Student at Addis Ababa Science and Technology University (AASTU)
+🎓 Software Engineering Student at Addis Ababa Science and Technology University (AASTU)  
+💻 Full-Stack Web Developer (Frontend & Backend)  
 
-💻 Full-Stack Developer (Frontend + Backend)
+📍 Addis Ababa, Ethiopia  
 
-📍 Addis Ababa, Ethiopia
-## About Me
-I am a software engineering student passionate about building web applications.  
-I enjoy working on both frontend and backend systems and learning new technologies.
+## 👩‍💻 About Me
 
-Currently looking for:
-- Internships
-- Junior developer opportunities
-- Open-source collaboration
+I am a Software Engineering student at Addis Ababa Science and Technolgy University with an interest in building modern web applications and improving my skills in full-stack development.
+I enjoy working with both frontend and backend technologies and learning new tools that help build scalable and user-friendly applications.
 
-## Tech Stack
+I am currently looking for:
+• Software Engineering Internships  
+• Junior Web Developer Opportunities  
+• Opportunities to collaborate on real projects  
 
-Frontend
+## 🚀 Technical Skills
+
+### Frontend
 - HTML
 - CSS
 - JavaScript
+- React
+- Bootstrap
 
-Backend
+### Backend
 - PHP
-- Node.js (learning)
 
-Database
+### Database
 - MySQL
 - SQL
 
-Tools
+### Tools
 - Git
 - GitHub
-- VS code
-<!--
-**SosinaTilahun/SosinaTilahun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- VS Code
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+
+- Advanced React Development
+- REST API Development
+- Modern JavaScript Best Practices
+
+---
+
+## 🌐 Connect With Me
+
+📧 Email: sosinatilahun1273@gmail.com  
+
+💼 LinkedIn:  
+[Sosina Tilahun](https://www.linkedin.com/in/sosina-tilahun-65b649298/)
