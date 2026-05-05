@@ -15,28 +15,31 @@ I am currently looking for:
 • Junior Web Developer Opportunities  
 • Opportunities to collaborate on real projects  
 
-## 🚀 Technical Skills
+## ⚙️ Technical Skills
 
-### Frontend
-- HTML
-- CSS
-- JavaScript
-- React
-- Bootstrap
+### 🔹 Backend Development
 
-### Backend
-- PHP
+* Python
+* FastAPI
+* RESTful API Design
+* Authentication & Authorization (JWT)
 
-### Database
-- MySQL
-- SQL
+### 🔹 Frontend
 
-### Tools
-- Git
-- GitHub
-- VS Code
+* HTML
+* CSS
+* JavaScript
 
----
+### 🔹 Databases
+
+* PostgreSQL
+
+### 🔹 Tools & Technologies
+
+* Git & GitHub
+* Docker
+* Linux
+
 
 ## 📚 Currently Learning
 
