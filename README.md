@@ -43,10 +43,9 @@ I am currently looking for:
 
 ## 📚 Currently Learning
 
-- Advanced React Development
-- REST API Development
-- Modern JavaScript Best Practices
-
+- Applied AI & Machine Learning (NumPy, Pandas, PyTorch)
+- AI-powered backend systems (LLMs, API integration)
+- Cloud & DevOps fundamentals (AWS, containerization, deployment)
 ---
 
 ## 🌐 Connect With Me
